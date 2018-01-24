@@ -1,0 +1,11 @@
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddMem.resources
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Properties.Resources.resources
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.exe
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.AddBook.resources
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.Start.resources
+C:\Users\malatif\Documents\Visual Studio 2008\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.IssueBook.resources
